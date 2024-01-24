@@ -18,3 +18,5 @@ Colaborators:
 Trailer of the Game: 
 https://www.youtube.com/watch?v=oneFTnolVkU&ab_channel=RonnyRomero
 
+
+Pixel Pizza © 2018 by Marc Lopez is licensed under CC BY-NC-ND 4.0
