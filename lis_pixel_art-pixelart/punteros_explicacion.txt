@@ -1,0 +1,16 @@
+0:  Walk to  --> andar
+1:  Look at  --> mirar
+2:  Interact --> no se usa por ahora
+3:  Talk to  --> hablar
+4:  Use inv  --> usar
+5:  Pick up  --> coger
+6:  Pointer  --> no se usa por ahora
+7:  Wait     --> no se usa por ahora
+8:  Open     --> abrir
+9:  Close    --> cerrar
+10: Give to  --> dar
+11: Push     --> empujar
+
+
+
+
