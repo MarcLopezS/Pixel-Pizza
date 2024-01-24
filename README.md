@@ -7,7 +7,7 @@ Videogame created with Adventure Game Studio.
 ![todos hablando](https://github.com/MarcLopezS/Pixel-Pizza/assets/88272783/96ad2745-4954-4df2-8d66-c9ceaaaff30d)
 
 Colaborators: 
-- Marc Lópex (marclop.se@gmail.com)
+- Marc López (marclop.se@gmail.com)
 - Aleix Orriols (aleixorriols@gmail.com)
 - Joan Taja (Taya.Joan@gmail.com)
 - Ronny Romero (ronnyrom3@gmail.com)
