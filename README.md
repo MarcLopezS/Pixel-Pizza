@@ -2,7 +2,10 @@
 Pixel Art game created for a University project.
 Videogame created with Adventure Game Studio.
 
-Programming language: based on C.
+Based on the gaming mechanics of Monkey Island, Pixel Pizza starts as a pizza delivery to place an order from a misterious client.
+Who will it be? Will it be a good idea to deliver the order?
+
+Programming language: AGS Script (based on C).
 
 ![Pixel Pizza](https://github.com/MarcLopezS/Pixel-Pizza/assets/88272783/111a8be1-de93-4db8-a304-a26535dc4830)
 
